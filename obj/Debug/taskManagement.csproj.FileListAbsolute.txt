@@ -1,0 +1,11 @@
+D:\Code\C#Code\Projects\taskManagement\bin\Debug\taskManagement.exe.config
+D:\Code\C#Code\Projects\taskManagement\bin\Debug\taskManagement.exe
+D:\Code\C#Code\Projects\taskManagement\bin\Debug\taskManagement.pdb
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.csprojAssemblyReference.cache
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.Form1.resources
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.Properties.Resources.resources
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.csproj.GenerateResource.cache
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.csproj.CoreCompileInputs.cache
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.exe
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.pdb
+D:\Code\C#Code\Projects\taskManagement\obj\Debug\taskManagement.Form2.resources
